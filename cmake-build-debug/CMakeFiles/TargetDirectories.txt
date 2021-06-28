@@ -1,0 +1,3 @@
+C:/Users/PC/CLionProjects/NUMALCUBO/cmake-build-debug/CMakeFiles/NUMALCUBO.dir
+C:/Users/PC/CLionProjects/NUMALCUBO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/CLionProjects/NUMALCUBO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
